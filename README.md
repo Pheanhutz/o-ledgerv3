@@ -30,7 +30,12 @@ nano tokens.txt
 ```bash
 nano proxy.txt
 ```
-## After Using Auto-Ref (Run the Main Bot 
+## Create Screen 
+```bash
+screen -S OpenLedget-Bot
+```
+
+## Run the Main Bot 
 ```bash
 node main
 ```
