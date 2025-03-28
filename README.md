@@ -8,6 +8,8 @@
 
 # 🖥 Instructions:
 
+- Register here: [OPENLEDGER](https://testnet.openledger.xyz/?referral_code=jey7xtcwei)
+
 ## Git Clone
 ```
 git clone https://github.com/Pheanhutz/o-ledgerv3.git
